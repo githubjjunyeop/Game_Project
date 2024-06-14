@@ -89,12 +89,13 @@
 ## 기여 방법
 기여는 언제나 환영입니다! 제안이나 개선 사항이 있다면 다음 단계를 따라주세요:
 
-저장소를 포크합니다.
-새로운 브랜치를 만듭니다 (git checkout -b feature-branch).
-변경 사항을 커밋합니다 (git commit -m 'Add some feature').
-브랜치에 푸시합니다 (git push origin feature-branch).
-풀 리퀘스트를 엽니다.
-라이선스
+-저장소를 포크합니다.
+-새로운 브랜치를 만듭니다 (git checkout -b feature-branch).
+-변경 사항을 커밋합니다 (git commit -m 'Add some feature').
+-브랜치에 푸시합니다 (git push origin feature-branch).
+-풀 리퀘스트를 엽니다.
+
+## 라이선스
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참고하세요.
 
 ## 문의
